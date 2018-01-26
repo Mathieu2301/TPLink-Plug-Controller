@@ -1,2 +1,2 @@
 # TPLink-Plug-Controller
-Type npm i && npm start
+Type `npm i && npm start`
