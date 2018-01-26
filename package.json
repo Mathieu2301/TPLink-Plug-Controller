@@ -1,0 +1,11 @@
+{
+  "name": "tplink-plug-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "tplink-smarthome-api": "latest"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
