@@ -1,2 +1,4 @@
 # TPLink-Plug-Controller
-Type `npm i && npm start`
+1. Type `npm install`
+2. Change the IP in the `index.js:2`
+3. Type `npm start`
